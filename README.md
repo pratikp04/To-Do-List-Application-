@@ -18,7 +18,6 @@ Gain experience in designing menu-driven, user-friendly programs.
 
 OUTPUT:
 
-<!-- Uploading "Screenshot 2025-09-26 155949.png"... -->
-
+<img width="805" height="827" alt="Image" src="https://github.com/user-attachments/assets/43827f4d-b936-4851-80f2-088aa3e99a29" />
 
 
